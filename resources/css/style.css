@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    background: black;
+}
+
+h1 {
+    font-family: Verdana;
+    color: white;
+}
+
+.row1 h1 {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.row2 h1 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+p {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+.row2 > img {
+    margin-top: 30px;
+}
